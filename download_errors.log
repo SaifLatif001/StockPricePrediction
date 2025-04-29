@@ -1,0 +1,131 @@
+2025-04-26 10:10:23,418 - 
+1 Failed download:
+2025-04-26 10:10:23,418 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:23,418 - Attempt 1 failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:28,433 - 
+1 Failed download:
+2025-04-26 10:10:28,433 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:28,433 - Attempt 2 failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:33,448 - 
+1 Failed download:
+2025-04-26 10:10:33,449 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:33,449 - Attempt 3 failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:38,463 - 
+1 Failed download:
+2025-04-26 10:10:38,463 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:38,463 - Attempt 4 failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:43,477 - 
+1 Failed download:
+2025-04-26 10:10:43,477 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:43,477 - Attempt 5 failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:43,477 - Retrying with BSE ticker RELIANCE.BO
+2025-04-26 10:10:43,491 - 
+1 Failed download:
+2025-04-26 10:10:43,491 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:43,491 - BSE fallback failed for RELIANCE.BO: No data returned for RELIANCE.BO
+2025-04-26 10:10:43,506 - 
+1 Failed download:
+2025-04-26 10:10:43,506 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:43,506 - Attempt 1 failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:10:48,520 - 
+1 Failed download:
+2025-04-26 10:10:48,520 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:48,520 - Attempt 2 failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:10:53,535 - 
+1 Failed download:
+2025-04-26 10:10:53,535 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:53,535 - Attempt 3 failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:10:58,550 - 
+1 Failed download:
+2025-04-26 10:10:58,550 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:10:58,550 - Attempt 4 failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:11:03,564 - 
+1 Failed download:
+2025-04-26 10:11:03,564 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:03,565 - Attempt 5 failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:11:03,565 - Retrying with BSE ticker TCS.BO
+2025-04-26 10:11:03,578 - 
+1 Failed download:
+2025-04-26 10:11:03,578 - ['TCS.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:03,579 - BSE fallback failed for TCS.BO: No data returned for TCS.BO
+2025-04-26 10:11:03,592 - 
+1 Failed download:
+2025-04-26 10:11:03,592 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:03,592 - Attempt 1 failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:08,606 - 
+1 Failed download:
+2025-04-26 10:11:08,606 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:08,606 - Attempt 2 failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:13,619 - 
+1 Failed download:
+2025-04-26 10:11:13,619 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:13,619 - Attempt 3 failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:18,633 - 
+1 Failed download:
+2025-04-26 10:11:18,634 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:18,634 - Attempt 4 failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:23,647 - 
+1 Failed download:
+2025-04-26 10:11:23,647 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:23,648 - Attempt 5 failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:23,648 - Retrying with BSE ticker HDFCBANK.BO
+2025-04-26 10:11:23,660 - 
+1 Failed download:
+2025-04-26 10:11:23,660 - ['HDFCBANK.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:23,660 - BSE fallback failed for HDFCBANK.BO: No data returned for HDFCBANK.BO
+2025-04-26 10:11:23,673 - 
+1 Failed download:
+2025-04-26 10:11:23,673 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:23,673 - Attempt 1 failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:28,688 - 
+1 Failed download:
+2025-04-26 10:11:28,688 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:28,689 - Attempt 2 failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:33,703 - 
+1 Failed download:
+2025-04-26 10:11:33,703 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:33,703 - Attempt 3 failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:38,717 - 
+1 Failed download:
+2025-04-26 10:11:38,717 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:38,717 - Attempt 4 failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:43,732 - 
+1 Failed download:
+2025-04-26 10:11:43,732 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:43,732 - Attempt 5 failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:43,733 - Retrying with BSE ticker INFY.BO
+2025-04-26 10:11:43,746 - 
+1 Failed download:
+2025-04-26 10:11:43,746 - ['INFY.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:43,746 - BSE fallback failed for INFY.BO: No data returned for INFY.BO
+2025-04-26 10:11:43,760 - 
+1 Failed download:
+2025-04-26 10:11:43,760 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:43,760 - Attempt 1 failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:11:48,774 - 
+1 Failed download:
+2025-04-26 10:11:48,774 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:48,774 - Attempt 2 failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:11:53,788 - 
+1 Failed download:
+2025-04-26 10:11:53,788 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:53,789 - Attempt 3 failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:11:58,803 - 
+1 Failed download:
+2025-04-26 10:11:58,803 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:11:58,803 - Attempt 4 failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:12:03,817 - 
+1 Failed download:
+2025-04-26 10:12:03,817 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:12:03,817 - Attempt 5 failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:12:03,817 - Retrying with BSE ticker ITC.BO
+2025-04-26 10:12:03,829 - 
+1 Failed download:
+2025-04-26 10:12:03,829 - ['ITC.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:12:03,829 - BSE fallback failed for ITC.BO: No data returned for ITC.BO
+2025-04-26 10:15:29,250 - 
+1 Failed download:
+2025-04-26 10:15:29,250 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
+2025-04-26 10:56:13,172 - 
+1 Failed download:
+2025-04-26 10:56:13,172 - ['RELIANCE.BO']: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')
