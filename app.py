@@ -189,8 +189,8 @@ st.markdown('<div class="main-content">', unsafe_allow_html=True)
 col1, col2 = st.columns([1, 1])
 
 with col1:
-    # Dropdown to select model (only XGBoost for now)
-    model_type = st.selectbox("Select Model", ["XGBoost"], key="model_select")
+    # Dropdown to select model (XGBoost or LSTM)
+    model_type = st.selectbox("Select Model", ["XGBoost", "LSTM"], key="model_select")
 
 with col2:
     # Dropdown to select stock
@@ -199,6 +199,8 @@ with col2:
 # Load predictions based on selected model
 if model_type == "XGBoost":
     prediction_path = f"predictions_xgb/{ticker}_2025_predictions.csv"
+elif model_type == "LSTM":
+    prediction_path = f"predictions/{ticker}_2025_predictions.csv"
 else:
     prediction_path = None
 
@@ -230,7 +232,7 @@ if os.path.exists(prediction_path):
     # Placeholder for model performance metrics in a card
     st.markdown('<div class="card">', unsafe_allow_html=True)
     st.markdown('<div class="card-title">Model Performance Metrics</div>', unsafe_allow_html=True)
-    st.markdown('<div>Performance metrics for XGBoost are not available in this version.</div>', unsafe_allow_html=True)
+    st.markdown(f'<div>Performance metrics for {model_type} are not available in this version.</div>', unsafe_allow_html=True)
     st.markdown('</div>', unsafe_allow_html=True)
 else:
     st.error(f"No predictions found for {ticker} with {model_type} model.")
@@ -242,7 +244,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 st.markdown("""
 <div class="footer">
     <div class="footer-text">
-        © 2025 Stock Price Prediction Project by Saif Latif | Powered by Streamlit | <a href="https://github.com/your-username/StockPricePrediction" target="_blank">GitHub</a>
+        © 2025 Stock Price Prediction Project by Saif Latif | Powered by Streamlit | <a href="https://github.com/SaifLatif001/StockPricePrediction" target="_blank">GitHub</a>
     </div>
 </div>
 """, unsafe_allow_html=True)
